@@ -1,0 +1,2 @@
+fastembed>=0.9,<1
+streamlit>=1.43,<2
